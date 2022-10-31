@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin Mulandi
 - 👀 I’m interested in ...Web and Android Penetration testing
-- 🌱 I’m currently learning ...Malware analysis and reverse engineering
+- 🌱 I’m currently learning ...Kotlin
 - 📫 Read more on my blog ...https://aggviolinist.medium.com/
 
 <!---
