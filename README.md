@@ -8,8 +8,6 @@ Greetings, Welcome to my profile, its nice you stopped by. While you want to che
  
 - - 🌱 I’m constantly learning 
 - - :speech_balloon: Let's talk about ... .kt, Android, Jetpack Compose
-- - 🌱 I’m constantly learning ...kotlin
-- - 🌱 I’m constantly learning ...kotlin
 - - :feelsgood: Chat me up on ...mulandimaei76@gmail.com
 
 <!---
