@@ -10,7 +10,7 @@ Greetings, Welcome to my profile, its nice you stopped by. While you want to che
 - - 🌱 Let's talk about ... .kt, Android, Jetpack Compose
 - - 🌱 I’m constantly learning ...kotlin
 - - 🌱 I’m constantly learning ...kotlin
-- 📫 Chat me up on ...mulandimaei76@gmail.com
+- - :feelsgood: Chat me up on ...mulandimaei76@gmail.com
 
 <!---
 aggviolinist/aggviolinist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
