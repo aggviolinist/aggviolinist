@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kelvin Mulandi
-- 👀 I’m a passionate Android Engineer 
+👋 Hi, I’m Kelvin Mulandi
+👀 I’m a passionate Android Engineer 
 
 
 
