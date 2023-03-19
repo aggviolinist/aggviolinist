@@ -1,14 +1,14 @@
 👋 Hi, I’m Kelvin Mulandi
 
- Android Engineer 👀 -> 💻
+ Smart Contract Developer 👀 -> 💻
 
 
 
-Greetings , Welcome to my profile, I'm greatful you stopped by. While you want to check out my repositories, let me introduce myself in a jiffy. I am a software developer with a focus on Native Android applications. I enjoy learning and writing code to make the Android Ecosystem a better place to engage in.
+Greetings , Welcome to my profile, I'm greatful you stopped by. While you want to check out my repositories, let me introduce myself in a jiffy. I am a Smart Contract Developer. I enjoy learning and writing code to make the Block chain Ecosystem a better place to engage in.
  
 - ♻️ Everything is learnable  
 
-- 🗣️ Let's talk about ... .kt, Android, Jetpack Compose
+- 🗣️ Let's talk about ... .block chain,python,smart contract, ethereum, solidity, brownie
 
 - 📬 Chat me up on ...mulandimaei76@gmail.com
 
