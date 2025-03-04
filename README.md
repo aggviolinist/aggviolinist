@@ -1,14 +1,12 @@
 👋 Hi, I’m Kelvin Mulandi
 
- Smart Contract Developer 👀 -> 💻
 
 
-
-Greetings , Welcome to my profile, I'm greatful you stopped by. While you want to check out my repositories, let me introduce myself in a jiffy. I am a Smart Contract Developer. I enjoy learning and writing code to make the Block chain Ecosystem a better place to engage in.
+Greetings , Welcome to my profile, I'm greatful you stopped by. While you want to check out my repositories, let me introduce myself in a jiffy. 
  
 - ♻️ Everything is learnable  
 
-- 🗣️ Let's talk about ... .block chain,python,smart contract, ethereum, solidity, brownie
+- 🗣️ Let's talk about ... .code
 
 - 📬 Chat me up on ...mulandimaei76@gmail.com
 
