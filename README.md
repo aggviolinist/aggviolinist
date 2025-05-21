@@ -6,27 +6,33 @@ Welcome to my profile, I'm greatful you stopped by. While you want to check out 
 
 - 🗣️ Let's talk about ... .code
 
-- 📬 Chat me up on ...mulandimaei76@gmail.com
-
+---
 <!---
 aggviolinist/aggviolinist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 💻 Languages & Tools I Use
+## 💻 Programming & Scripting Languages
 
-### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VBA](https://img.shields.io/badge/-VBA-002060?style=for-the-badge&logo=microsoft&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Data & Analysis Tools
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+---
+
+## ☁️ Cloud & Infrastructure Tools
+
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/-Pulumi-3A4CA3?style=for-the-badge&logo=pulumi&logoColor=white)
+
+---
+- 📬 Chat me up on ...mulandimaei76@gmail.com
+
 
 
 
