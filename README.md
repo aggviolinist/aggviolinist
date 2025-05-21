@@ -1,38 +1,46 @@
-👋 Hi, I’m Kelvin Mulandi an AWS Cloud Engineer.
+# 👋 Hi, I'm Kelvin Mulandi — AWS Cloud Engineer
 
-Welcome to my profile, I'm greatful you stopped by. While you want to check out my repositories, let me introduce myself in a jiffy. 
- 
-- ♻️ Everything is learnable  
+Welcome to my GitHub profile — I’m glad you stopped by!
 
-- 🗣️ Let's talk about ... .code
-
----
-<!---
-aggviolinist/aggviolinist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 💻 Programming & Scripting Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+I’m a passionate Cloud Developer with a focus on building scalable, secure, and efficient cloud-native solutions using AWS services. I enjoy solving complex problems with clean code, automating infrastructure, and continuously learning to stay ahead in the ever-evolving world of cloud technology.
 
 ---
 
-## ☁️ Cloud & Infrastructure Tools
+## 🚀 About Me
 
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Pulumi](https://img.shields.io/badge/-Pulumi-3A4CA3?style=for-the-badge&logo=pulumi&logoColor=white)
+- ☁️ AWS Certified Cloud Engineer with hands-on experience in EC2, S3, Lambda, DynamoDB, IAM, and more.
+- 🧱 Skilled in Infrastructure as Code using **Terraform**, **CloudFormation**, and **Pulumi**.
+- 💡 Enthusiastic about DevOps, automation, and serverless architectures.
+- ♻️ Firm believer that **everything is learnable** — and learning never stops.
+- 💬 Love talking about **cloud, automation, clean code**, and real-world tech challenges.
 
 ---
-- 📬 Chat me up on ...mulandimaei76@gmail.com
 
+## 🛠️ Technologies & Tools
 
+**Languages & Scripting**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/-Pulumi-512BD4?style=flat-square&logo=pulumi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+**Databases & Serverless**
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💬 Open to cloud gigs, collaborations, or just a good tech conversation!
+
+---
+
+_“Talk is cheap. Show me the code.” – Linus Torvalds_
