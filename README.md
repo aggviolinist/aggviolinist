@@ -38,7 +38,7 @@ I’m a passionate Cloud Developer with a focus on building scalable, secure, an
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kelvin-mulandi-07a018204/)
 - 💬 Open to cloud gigs, collaborations, or just a good tech conversation!
 
 ---
