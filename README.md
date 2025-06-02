@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile — I’m glad you stopped by!
 
-I’m a passionate Cloud Developer with a focus on building scalable, secure, and efficient cloud-native solutions using AWS services. I enjoy solving complex problems with clean code, automating infrastructure, and continuously learning to stay ahead in the ever-evolving world of cloud technology.
+I’m a passionate Cloud Developer/DevOps Engineer with a focus on building scalable, secure, and efficient cloud-native solutions using AWS services. I enjoy solving complex problems with clean code, automating infrastructure, and continuously learning to stay ahead in the ever-evolving world of cloud technology.
 
 ---
 
