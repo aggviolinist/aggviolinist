@@ -43,4 +43,4 @@ I’m a passionate Cloud Developer/DevOps Engineer with a focus on building scal
 
 ---
 
-_“Stay Curious.” – Steve Hawking_
+_“Stay Curious” – Steve Hawking_
