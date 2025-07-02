@@ -43,4 +43,4 @@ I’m a passionate Cloud Developer/DevOps Engineer with a focus on building scal
 
 ---
 
-_“Talk is cheap. Show me the code.” – Linus Torvalds_
+_“Stay Curious.” – Steve Hawking_
